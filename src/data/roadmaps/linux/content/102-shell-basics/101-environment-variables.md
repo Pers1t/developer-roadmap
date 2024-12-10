@@ -21,3 +21,4 @@ Remember, every shell, such as Bourne shell, C shell, or Korn shell in Unix or L
 Learn more from the following resources:
 
 - [@article@Environment Variables in Linux](https://labex.io/tutorials/linux-environment-variables-in-linux-385274)
+- [@video@How to use Environment Variables in Linux](https://www.youtube.com/watch?v=9ZpL8iDU7LY)
